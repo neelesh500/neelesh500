@@ -36,5 +36,5 @@
 ## 📊 GitHub Dashboard
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=neelesh500&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=neelesh500&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=neelesh500&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </p>
