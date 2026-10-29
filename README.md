@@ -13,7 +13,7 @@
 ---
 
 ## 💫 About Me
-🎓 B.Tech Computer Science student at GL Bajaj, Mathura
+🎓 B.Tech Computer Science and Technology student at GL Bajaj, Mathura
 💻 Interested in Software Development, Python and AI
 🌱 Learning DSA, backend development and building practical projects
 🎯 Goal: Become a strong software engineer and contribute to open source
